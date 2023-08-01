@@ -15,7 +15,7 @@
   - MFC C++를 통해서 Form을 구성합니다.
 
 ### 목표
-- [ ] ...
+- [ ] MFC 프로젝트 준비
 
 ### 제작자
 [@SAgiKPJH](https://github.com/SAgiKPJH)
